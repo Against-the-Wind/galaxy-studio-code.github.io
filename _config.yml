@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://galaxy-studio-code.github.io
+url: https://galaxy-studio.ga
 date_format: "ordinal"
 title: 星际工作室
 subtitle: "星际工作室"
