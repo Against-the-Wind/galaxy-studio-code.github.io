@@ -107,7 +107,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Galaxy-Studio-Code
-    repo: Galaxy-Studio-Code
+    repo: galaxy-studio-code.github.io
     clientID: b38ed04f5399a8d8528e
     clientSecret: 896e9064f31f3123b9c080b2154af532c9924374
 # 在使用其它评论组件时可点击显示 Disqus
