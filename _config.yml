@@ -46,9 +46,9 @@ navs:
     href: /wiki/
     label: 文档
 
-#  -
-#    href: /links/
-#    label: 链接
+  -
+    href: /links/
+    label: 链接
 
   -
     href: /about/
