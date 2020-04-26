@@ -2,7 +2,7 @@
 {% if site.github.public_repositories != null %}
 {% assign repos = site.github.public_repositories | sort: "stargazers_count" | reverse%}
 {% for repo in repos | limit: site.side_bar_repo_limit %}
-{% if {{ repo.name }} != 'galaxy-studio-code.github.io' and {{ repo.name }} != 'blog' %}
+<!-- {% if {{ repo.name }} != 'galaxy-studio-code.github.io' and {{ repo.name }} != 'blog' %} -->
 <a href="{{ repo.html_url }}" target="_blank" class="card text-center">
     <div class="thumbnail">
         <div class="card-image geopattern" data-pattern-id="{{ repo.name }}">
@@ -31,6 +31,6 @@
         </div>
     </div>
 </a>
-{% endif %}
+<!-- {% endif %} -->
 {% endfor %}
 {% endif %}
