@@ -7,4 +7,5 @@ comments: true
 menu: 加入我们
 permalink: /join/
 ---
-<script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=79563310&width=760&source=iframe&tm=1'></script>
+
+<script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=79563310&width=760&source=iframe'></script>
