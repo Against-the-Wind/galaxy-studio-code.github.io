@@ -51,10 +51,6 @@ navs:
     label: 反馈问题
     
   -
-    href: /customer/
-    label: 客户系统
-    
-  -
     href: /about/
     label: 关于
 
